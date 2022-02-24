@@ -1,0 +1,8 @@
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-vetor\bin\Debug\teste-vetor.exe.config
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-vetor\bin\Debug\teste-vetor.exe
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-vetor\bin\Debug\teste-vetor.pdb
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-vetor\obj\Debug\teste-vetor.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-vetor\obj\Debug\teste-vetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-vetor\obj\Debug\teste-vetor.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-vetor\obj\Debug\teste-vetor.exe
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-vetor\obj\Debug\teste-vetor.pdb

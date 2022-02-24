@@ -1,0 +1,8 @@
+C:\Users\evert\Documents\C# - Curso\teste-debbug\Retangulo\bin\Debug\Retangulo.exe.config
+C:\Users\evert\Documents\C# - Curso\teste-debbug\Retangulo\bin\Debug\Retangulo.exe
+C:\Users\evert\Documents\C# - Curso\teste-debbug\Retangulo\bin\Debug\Retangulo.pdb
+C:\Users\evert\Documents\C# - Curso\teste-debbug\Retangulo\obj\Debug\Retangulo.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\Retangulo\obj\Debug\Retangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\Retangulo\obj\Debug\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\Retangulo\obj\Debug\Retangulo.exe
+C:\Users\evert\Documents\C# - Curso\teste-debbug\Retangulo\obj\Debug\Retangulo.pdb

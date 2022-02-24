@@ -1,0 +1,8 @@
+C:\Users\evert\Documents\C# - Curso\Primeiro\Primeiro\bin\Debug\Primeiro.exe.config
+C:\Users\evert\Documents\C# - Curso\Primeiro\Primeiro\bin\Debug\Primeiro.exe
+C:\Users\evert\Documents\C# - Curso\Primeiro\Primeiro\bin\Debug\Primeiro.pdb
+C:\Users\evert\Documents\C# - Curso\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\C# - Curso\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\evert\Documents\C# - Curso\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\Primeiro\Primeiro\obj\Debug\Primeiro.exe
+C:\Users\evert\Documents\C# - Curso\Primeiro\Primeiro\obj\Debug\Primeiro.pdb

@@ -1,0 +1,8 @@
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-debbug\bin\Debug\teste-debbug.exe.config
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-debbug\bin\Debug\teste-debbug.exe
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-debbug\bin\Debug\teste-debbug.pdb
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-debbug\obj\Debug\teste-debbug.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-debbug\obj\Debug\teste-debbug.csproj.SuggestedBindingRedirects.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-debbug\obj\Debug\teste-debbug.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-debbug\obj\Debug\teste-debbug.exe
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-debbug\obj\Debug\teste-debbug.pdb

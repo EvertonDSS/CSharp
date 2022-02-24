@@ -1,0 +1,8 @@
+C:\Users\evert\Documents\C# - Curso\Teste\teste-entrada\bin\Debug\teste-entrada.exe.config
+C:\Users\evert\Documents\C# - Curso\Teste\teste-entrada\bin\Debug\teste-entrada.exe
+C:\Users\evert\Documents\C# - Curso\Teste\teste-entrada\bin\Debug\teste-entrada.pdb
+C:\Users\evert\Documents\C# - Curso\Teste\teste-entrada\obj\Debug\teste-entrada.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\C# - Curso\Teste\teste-entrada\obj\Debug\teste-entrada.csproj.SuggestedBindingRedirects.cache
+C:\Users\evert\Documents\C# - Curso\Teste\teste-entrada\obj\Debug\teste-entrada.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\Teste\teste-entrada\obj\Debug\teste-entrada.exe
+C:\Users\evert\Documents\C# - Curso\Teste\teste-entrada\obj\Debug\teste-entrada.pdb

@@ -1,0 +1,8 @@
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-matrizes\bin\Debug\teste-matrizes.exe.config
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-matrizes\bin\Debug\teste-matrizes.exe
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-matrizes\bin\Debug\teste-matrizes.pdb
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-matrizes\obj\Debug\teste-matrizes.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-matrizes\obj\Debug\teste-matrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-matrizes\obj\Debug\teste-matrizes.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-matrizes\obj\Debug\teste-matrizes.exe
+C:\Users\evert\Documents\C# - Curso\teste-debbug\teste-matrizes\obj\Debug\teste-matrizes.pdb
