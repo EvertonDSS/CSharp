@@ -1,0 +1,8 @@
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\soma\soma\bin\Debug\soma.exe.config
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\soma\soma\bin\Debug\soma.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\soma\soma\bin\Debug\soma.pdb
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\soma\soma\obj\Debug\soma.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\soma\soma\obj\Debug\soma.csproj.SuggestedBindingRedirects.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\soma\soma\obj\Debug\soma.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\soma\soma\obj\Debug\soma.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\soma\soma\obj\Debug\soma.pdb
