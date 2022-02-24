@@ -1,0 +1,8 @@
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\terreno\terreno\bin\Debug\terreno.exe.config
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\terreno\terreno\bin\Debug\terreno.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\terreno\terreno\bin\Debug\terreno.pdb
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\terreno\terreno\obj\Debug\terreno.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\terreno\terreno\obj\Debug\terreno.csproj.SuggestedBindingRedirects.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\terreno\terreno\obj\Debug\terreno.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\terreno\terreno\obj\Debug\terreno.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\condicional\terreno\terreno\obj\Debug\terreno.pdb
