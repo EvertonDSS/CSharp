@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-idades/media-idades/bin/Debug/media_idades.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-idades/media-idades/bin/Debug/media_idades.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-idades/media-idades/obj/Debug/media-idades.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-idades/media-idades/obj/Debug/media-idades.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-idades/media-idades/obj/Debug/media_idades.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-idades/media-idades/obj/Debug/media_idades.pdb

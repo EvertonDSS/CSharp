@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/crescente/crescente/bin/Debug/crescente.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/crescente/crescente/bin/Debug/crescente.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/crescente/crescente/obj/Debug/crescente.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/crescente/crescente/obj/Debug/crescente.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/crescente/crescente/obj/Debug/crescente.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/crescente/crescente/obj/Debug/crescente.pdb
