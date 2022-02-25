@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/condicional/tempo-de-jogo/tempo-de-jogo/bin/Debug/tempo_de_jogo.exe
+/home/evertond/Documentos/CSharp/exercicios/condicional/tempo-de-jogo/tempo-de-jogo/bin/Debug/tempo_de_jogo.pdb
+/home/evertond/Documentos/CSharp/exercicios/condicional/tempo-de-jogo/tempo-de-jogo/obj/Debug/tempo-de-jogo.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/condicional/tempo-de-jogo/tempo-de-jogo/obj/Debug/tempo-de-jogo.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/condicional/tempo-de-jogo/tempo-de-jogo/obj/Debug/tempo_de_jogo.exe
+/home/evertond/Documentos/CSharp/exercicios/condicional/tempo-de-jogo/tempo-de-jogo/obj/Debug/tempo_de_jogo.pdb

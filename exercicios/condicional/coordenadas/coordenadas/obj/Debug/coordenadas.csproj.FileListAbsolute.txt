@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/condicional/coordenadas/coordenadas/obj/Debug/coordenadas.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/condicional/coordenadas/coordenadas/obj/Debug/coordenadas.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/condicional/coordenadas/coordenadas/bin/Debug/coordenadas.exe
+/home/evertond/Documentos/CSharp/exercicios/condicional/coordenadas/coordenadas/bin/Debug/coordenadas.pdb
+/home/evertond/Documentos/CSharp/exercicios/condicional/coordenadas/coordenadas/obj/Debug/coordenadas.exe
+/home/evertond/Documentos/CSharp/exercicios/condicional/coordenadas/coordenadas/obj/Debug/coordenadas.pdb

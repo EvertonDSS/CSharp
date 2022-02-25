@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/condicional/aumento/aumento/bin/Debug/aumento.exe
+/home/evertond/Documentos/CSharp/exercicios/condicional/aumento/aumento/bin/Debug/aumento.pdb
+/home/evertond/Documentos/CSharp/exercicios/condicional/aumento/aumento/obj/Debug/aumento.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/condicional/aumento/aumento/obj/Debug/aumento.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/condicional/aumento/aumento/obj/Debug/aumento.exe
+/home/evertond/Documentos/CSharp/exercicios/condicional/aumento/aumento/obj/Debug/aumento.pdb
