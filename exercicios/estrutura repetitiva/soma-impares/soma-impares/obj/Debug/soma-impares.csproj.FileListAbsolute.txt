@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/soma-impares/soma-impares/bin/Debug/soma_impares.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/soma-impares/soma-impares/bin/Debug/soma_impares.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/soma-impares/soma-impares/obj/Debug/soma-impares.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/soma-impares/soma-impares/obj/Debug/soma-impares.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/soma-impares/soma-impares/obj/Debug/soma_impares.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/soma-impares/soma-impares/obj/Debug/soma_impares.pdb

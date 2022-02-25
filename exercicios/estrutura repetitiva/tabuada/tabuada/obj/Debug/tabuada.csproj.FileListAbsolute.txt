@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/tabuada/tabuada/obj/Debug/tabuada.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/tabuada/tabuada/obj/Debug/tabuada.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/tabuada/tabuada/bin/Debug/tabuada.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/tabuada/tabuada/bin/Debug/tabuada.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/tabuada/tabuada/obj/Debug/tabuada.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/tabuada/tabuada/obj/Debug/tabuada.pdb

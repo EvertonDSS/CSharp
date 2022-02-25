@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-ponderada/media-ponderada/bin/Debug/media_ponderada.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-ponderada/media-ponderada/bin/Debug/media_ponderada.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-ponderada/media-ponderada/obj/Debug/media-ponderada.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-ponderada/media-ponderada/obj/Debug/media-ponderada.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-ponderada/media-ponderada/obj/Debug/media_ponderada.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/media-ponderada/media-ponderada/obj/Debug/media_ponderada.pdb

@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/dentro-fora/dentro-fora/bin/Debug/dentro_fora.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/dentro-fora/dentro-fora/bin/Debug/dentro_fora.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/dentro-fora/dentro-fora/obj/Debug/dentro-fora.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/dentro-fora/dentro-fora/obj/Debug/dentro-fora.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/dentro-fora/dentro-fora/obj/Debug/dentro_fora.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/dentro-fora/dentro-fora/obj/Debug/dentro_fora.pdb

@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/par-impar/par-impar/bin/Debug/par_impar.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/par-impar/par-impar/bin/Debug/par_impar.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/par-impar/par-impar/obj/Debug/par-impar.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/par-impar/par-impar/obj/Debug/par-impar.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/par-impar/par-impar/obj/Debug/par_impar.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/par-impar/par-impar/obj/Debug/par_impar.pdb

@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/sequencia-impares/sequencia-impares/bin/Debug/sequencia_impares.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/sequencia-impares/sequencia-impares/bin/Debug/sequencia_impares.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/sequencia-impares/sequencia-impares/obj/Debug/sequencia-impares.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/sequencia-impares/sequencia-impares/obj/Debug/sequencia-impares.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/sequencia-impares/sequencia-impares/obj/Debug/sequencia_impares.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/sequencia-impares/sequencia-impares/obj/Debug/sequencia_impares.pdb
