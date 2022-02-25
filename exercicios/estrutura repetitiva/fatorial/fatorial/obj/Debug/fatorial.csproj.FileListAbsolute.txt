@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/fatorial/fatorial/obj/Debug/fatorial.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/fatorial/fatorial/obj/Debug/fatorial.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/fatorial/fatorial/bin/Debug/fatorial.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/fatorial/fatorial/bin/Debug/fatorial.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/fatorial/fatorial/obj/Debug/fatorial.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/fatorial/fatorial/obj/Debug/fatorial.pdb

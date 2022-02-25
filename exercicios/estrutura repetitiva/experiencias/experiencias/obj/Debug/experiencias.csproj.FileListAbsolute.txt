@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/experiencias/experiencias/bin/Debug/experiencias.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/experiencias/experiencias/bin/Debug/experiencias.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/experiencias/experiencias/obj/Debug/experiencias.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/experiencias/experiencias/obj/Debug/experiencias.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/experiencias/experiencias/obj/Debug/experiencias.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/experiencias/experiencias/obj/Debug/experiencias.pdb

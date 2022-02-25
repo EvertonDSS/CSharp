@@ -8,13 +8,26 @@ namespace fatorial
         {
             int N, fatorial;
 
-            Console.WriteLine("Digite o valor de N: ");
+            Console.Write("Digite o valor de N: ");
             N = int.Parse(Console.ReadLine());
-
-            for (int i = 0; i < N; i++)
+            
+        
+            if (N <= 15)
             {
-                
+                fatorial = 1;
+                for (int i = 1; i <= N; i++)
+                {
+                    fatorial = fatorial * i;
+                }
+                Console.Write("FATORIAL = " + fatorial);
             }
+            else
+            {
+                Console.WriteLine("Valor excedeu 15");
+            }
+
+            
         }
+        
     }
 }
