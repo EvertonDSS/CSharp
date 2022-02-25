@@ -25,6 +25,9 @@ namespace Troco
             }
             else
             {
+                
+                
+                
                 Console.WriteLine("SEM TROCO");
             }
         }
