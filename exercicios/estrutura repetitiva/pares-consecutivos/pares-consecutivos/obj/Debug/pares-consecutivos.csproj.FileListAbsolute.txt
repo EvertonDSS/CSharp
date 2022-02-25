@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/pares-consecutivos/pares-consecutivos/bin/Debug/pares_consecutivos.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/pares-consecutivos/pares-consecutivos/bin/Debug/pares_consecutivos.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/pares-consecutivos/pares-consecutivos/obj/Debug/pares-consecutivos.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/pares-consecutivos/pares-consecutivos/obj/Debug/pares-consecutivos.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/pares-consecutivos/pares-consecutivos/obj/Debug/pares_consecutivos.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/pares-consecutivos/pares-consecutivos/obj/Debug/pares_consecutivos.pdb
