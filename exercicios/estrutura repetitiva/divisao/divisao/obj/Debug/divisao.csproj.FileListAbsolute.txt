@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/divisao/divisao/obj/Debug/divisao.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/divisao/divisao/obj/Debug/divisao.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/divisao/divisao/bin/Debug/divisao.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/divisao/divisao/bin/Debug/divisao.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/divisao/divisao/obj/Debug/divisao.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/divisao/divisao/obj/Debug/divisao.pdb

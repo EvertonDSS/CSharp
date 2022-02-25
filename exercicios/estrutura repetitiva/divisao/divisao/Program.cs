@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace divisao
 {
@@ -6,6 +7,7 @@ namespace divisao
     {
         public static void Main(string[] args)
         {
+            CultureInfo ci = CultureInfo.InvariantCulture;
             int numerador, denominador,n;
             double divisao;
 
@@ -21,8 +23,15 @@ namespace divisao
                 denominador = int.Parse(Console.ReadLine());
 
                 divisao = (double) numerador / denominador;
-                
-                if()
+
+                if (denominador == 0)
+                {
+                    Console.WriteLine("DIVISAO IMPOSSÍVEL");
+                }
+                else
+                {
+                    Console.WriteLine("DIVISÃO = " + divisao.ToString("F2",ci));
+                }
 
             }
             
