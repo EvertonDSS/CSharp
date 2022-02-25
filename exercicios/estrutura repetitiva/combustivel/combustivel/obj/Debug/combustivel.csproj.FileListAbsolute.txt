@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/combustivel/combustivel/bin/Debug/combustivel.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/combustivel/combustivel/bin/Debug/combustivel.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/combustivel/combustivel/obj/Debug/combustivel.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/combustivel/combustivel/obj/Debug/combustivel.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/combustivel/combustivel/obj/Debug/combustivel.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/combustivel/combustivel/obj/Debug/combustivel.pdb

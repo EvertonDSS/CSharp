@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/validacao-de-notas/validacao-de-notas/bin/Debug/validacao_de_notas.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/validacao-de-notas/validacao-de-notas/bin/Debug/validacao_de_notas.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/validacao-de-notas/validacao-de-notas/obj/Debug/validacao-de-notas.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/validacao-de-notas/validacao-de-notas/obj/Debug/validacao-de-notas.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/validacao-de-notas/validacao-de-notas/obj/Debug/validacao_de_notas.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/validacao-de-notas/validacao-de-notas/obj/Debug/validacao_de_notas.pdb

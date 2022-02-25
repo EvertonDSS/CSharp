@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/quadrante/quadrante/obj/Debug/quadrante.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/quadrante/quadrante/obj/Debug/quadrante.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/quadrante/quadrante/bin/Debug/quadrante.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/quadrante/quadrante/bin/Debug/quadrante.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/quadrante/quadrante/obj/Debug/quadrante.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/quadrante/quadrante/obj/Debug/quadrante.pdb

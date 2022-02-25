@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/senha-fixa/senha-fixa/bin/Debug/senha_fixa.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/senha-fixa/senha-fixa/bin/Debug/senha_fixa.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/senha-fixa/senha-fixa/obj/Debug/senha-fixa.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/senha-fixa/senha-fixa/obj/Debug/senha-fixa.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/senha-fixa/senha-fixa/obj/Debug/senha_fixa.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/senha-fixa/senha-fixa/obj/Debug/senha_fixa.pdb
