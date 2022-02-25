@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/vetor/alturas/alturas/bin/Debug/alturas.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/alturas/alturas/bin/Debug/alturas.pdb
+/home/evertond/Documentos/CSharp/exercicios/vetor/alturas/alturas/obj/Debug/alturas.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/alturas/alturas/obj/Debug/alturas.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/alturas/alturas/obj/Debug/alturas.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/alturas/alturas/obj/Debug/alturas.pdb

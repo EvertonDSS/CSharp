@@ -1,0 +1,12 @@
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/negativos/negativos/bin/Debug/negativos.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/negativos/negativos/bin/Debug/negativos.pdb
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/negativos/negativos/obj/Debug/negativos.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/negativos/negativos/obj/Debug/negativos.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/negativos/negativos/obj/Debug/negativos.exe
+/home/evertond/Documentos/CSharp/exercicios/estrutura repetitiva/negativos/negativos/obj/Debug/negativos.pdb
+/home/evertond/Documentos/CSharp/exercicios/vetor/negativos/negativos/bin/Debug/negativos.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/negativos/negativos/bin/Debug/negativos.pdb
+/home/evertond/Documentos/CSharp/exercicios/vetor/negativos/negativos/obj/Debug/negativos.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/negativos/negativos/obj/Debug/negativos.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/negativos/negativos/obj/Debug/negativos.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/negativos/negativos/obj/Debug/negativos.pdb

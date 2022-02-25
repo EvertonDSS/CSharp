@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/vetor/soma-vetor/soma-vetor/bin/Debug/soma_vetor.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/soma-vetor/soma-vetor/bin/Debug/soma_vetor.pdb
+/home/evertond/Documentos/CSharp/exercicios/vetor/soma-vetor/soma-vetor/obj/Debug/soma-vetor.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/soma-vetor/soma-vetor/obj/Debug/soma-vetor.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/soma-vetor/soma-vetor/obj/Debug/soma_vetor.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/soma-vetor/soma-vetor/obj/Debug/soma_vetor.pdb
