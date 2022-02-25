@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/temperatura/temperatura/obj/Debug/temperatura.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/temperatura/temperatura/obj/Debug/temperatura.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/temperatura/temperatura/bin/Debug/temperatura.exe
+/home/evertond/Documentos/CSharp/condicional/temperatura/temperatura/bin/Debug/temperatura.pdb
+/home/evertond/Documentos/CSharp/condicional/temperatura/temperatura/obj/Debug/temperatura.exe
+/home/evertond/Documentos/CSharp/condicional/temperatura/temperatura/obj/Debug/temperatura.pdb

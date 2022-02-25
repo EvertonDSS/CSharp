@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/glicose/glicose/bin/Debug/glicose.exe
+/home/evertond/Documentos/CSharp/condicional/glicose/glicose/bin/Debug/glicose.pdb
+/home/evertond/Documentos/CSharp/condicional/glicose/glicose/obj/Debug/glicose.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/glicose/glicose/obj/Debug/glicose.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/glicose/glicose/obj/Debug/glicose.exe
+/home/evertond/Documentos/CSharp/condicional/glicose/glicose/obj/Debug/glicose.pdb

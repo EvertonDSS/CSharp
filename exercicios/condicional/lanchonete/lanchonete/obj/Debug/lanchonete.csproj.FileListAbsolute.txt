@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/lanchonete/lanchonete/obj/Debug/lanchonete.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/lanchonete/lanchonete/obj/Debug/lanchonete.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/lanchonete/lanchonete/bin/Debug/lanchonete.exe
+/home/evertond/Documentos/CSharp/condicional/lanchonete/lanchonete/bin/Debug/lanchonete.pdb
+/home/evertond/Documentos/CSharp/condicional/lanchonete/lanchonete/obj/Debug/lanchonete.exe
+/home/evertond/Documentos/CSharp/condicional/lanchonete/lanchonete/obj/Debug/lanchonete.pdb

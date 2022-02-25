@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/baskara/baskara/bin/Debug/baskara.exe
+/home/evertond/Documentos/CSharp/condicional/baskara/baskara/bin/Debug/baskara.pdb
+/home/evertond/Documentos/CSharp/condicional/baskara/baskara/obj/Debug/baskara.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/baskara/baskara/obj/Debug/baskara.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/baskara/baskara/obj/Debug/baskara.exe
+/home/evertond/Documentos/CSharp/condicional/baskara/baskara/obj/Debug/baskara.pdb

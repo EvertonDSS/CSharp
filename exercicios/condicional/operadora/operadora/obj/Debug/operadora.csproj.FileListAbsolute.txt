@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/operadora/operadora/obj/Debug/operadora.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/operadora/operadora/obj/Debug/operadora.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/operadora/operadora/bin/Debug/operadora.exe
+/home/evertond/Documentos/CSharp/condicional/operadora/operadora/bin/Debug/operadora.pdb
+/home/evertond/Documentos/CSharp/condicional/operadora/operadora/obj/Debug/operadora.exe
+/home/evertond/Documentos/CSharp/condicional/operadora/operadora/obj/Debug/operadora.pdb

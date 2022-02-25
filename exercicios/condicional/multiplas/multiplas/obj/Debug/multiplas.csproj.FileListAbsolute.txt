@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/multiplas/multiplas/bin/Debug/multiplas.exe
+/home/evertond/Documentos/CSharp/condicional/multiplas/multiplas/bin/Debug/multiplas.pdb
+/home/evertond/Documentos/CSharp/condicional/multiplas/multiplas/obj/Debug/multiplas.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/multiplas/multiplas/obj/Debug/multiplas.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/multiplas/multiplas/obj/Debug/multiplas.exe
+/home/evertond/Documentos/CSharp/condicional/multiplas/multiplas/obj/Debug/multiplas.pdb

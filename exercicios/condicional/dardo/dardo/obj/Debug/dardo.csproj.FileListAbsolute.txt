@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/dardo/dardo/bin/Debug/dardo.exe
+/home/evertond/Documentos/CSharp/condicional/dardo/dardo/bin/Debug/dardo.pdb
+/home/evertond/Documentos/CSharp/condicional/dardo/dardo/obj/Debug/dardo.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/dardo/dardo/obj/Debug/dardo.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/dardo/dardo/obj/Debug/dardo.exe
+/home/evertond/Documentos/CSharp/condicional/dardo/dardo/obj/Debug/dardo.pdb

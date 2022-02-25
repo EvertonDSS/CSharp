@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/notas/notas/bin/Debug/notas.exe
+/home/evertond/Documentos/CSharp/condicional/notas/notas/bin/Debug/notas.pdb
+/home/evertond/Documentos/CSharp/condicional/notas/notas/obj/Debug/notas.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/notas/notas/obj/Debug/notas.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/notas/notas/obj/Debug/notas.exe
+/home/evertond/Documentos/CSharp/condicional/notas/notas/obj/Debug/notas.pdb

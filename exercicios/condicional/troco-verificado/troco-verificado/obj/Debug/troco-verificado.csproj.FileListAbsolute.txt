@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/troco-verificado/troco-verificado/bin/Debug/troco_verificado.exe
+/home/evertond/Documentos/CSharp/condicional/troco-verificado/troco-verificado/bin/Debug/troco_verificado.pdb
+/home/evertond/Documentos/CSharp/condicional/troco-verificado/troco-verificado/obj/Debug/troco-verificado.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/troco-verificado/troco-verificado/obj/Debug/troco-verificado.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/troco-verificado/troco-verificado/obj/Debug/troco_verificado.exe
+/home/evertond/Documentos/CSharp/condicional/troco-verificado/troco-verificado/obj/Debug/troco_verificado.pdb
