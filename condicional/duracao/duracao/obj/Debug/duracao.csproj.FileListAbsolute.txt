@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/duracao/duracao/bin/Debug/duracao.exe
+/home/evertond/Documentos/CSharp/condicional/duracao/duracao/bin/Debug/duracao.pdb
+/home/evertond/Documentos/CSharp/condicional/duracao/duracao/obj/Debug/duracao.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/duracao/duracao/obj/Debug/duracao.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/duracao/duracao/obj/Debug/duracao.exe
+/home/evertond/Documentos/CSharp/condicional/duracao/duracao/obj/Debug/duracao.pdb

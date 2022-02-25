@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/medidas/medidas/bin/Debug/medidas.exe
+/home/evertond/Documentos/CSharp/condicional/medidas/medidas/bin/Debug/medidas.pdb
+/home/evertond/Documentos/CSharp/condicional/medidas/medidas/obj/Debug/medidas.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/medidas/medidas/obj/Debug/medidas.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/medidas/medidas/obj/Debug/medidas.exe
+/home/evertond/Documentos/CSharp/condicional/medidas/medidas/obj/Debug/medidas.pdb

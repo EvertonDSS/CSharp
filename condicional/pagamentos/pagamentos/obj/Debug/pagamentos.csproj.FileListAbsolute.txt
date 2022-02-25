@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/pagamentos/pagamentos/bin/Debug/pagamentos.exe
+/home/evertond/Documentos/CSharp/condicional/pagamentos/pagamentos/bin/Debug/pagamentos.pdb
+/home/evertond/Documentos/CSharp/condicional/pagamentos/pagamentos/obj/Debug/pagamentos.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/pagamentos/pagamentos/obj/Debug/pagamentos.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/pagamentos/pagamentos/obj/Debug/pagamentos.exe
+/home/evertond/Documentos/CSharp/condicional/pagamentos/pagamentos/obj/Debug/pagamentos.pdb

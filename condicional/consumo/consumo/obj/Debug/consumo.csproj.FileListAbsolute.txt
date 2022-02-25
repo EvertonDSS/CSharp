@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/consumo/consumo/bin/Debug/consumo.exe
+/home/evertond/Documentos/CSharp/condicional/consumo/consumo/bin/Debug/consumo.pdb
+/home/evertond/Documentos/CSharp/condicional/consumo/consumo/obj/Debug/consumo.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/consumo/consumo/obj/Debug/consumo.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/consumo/consumo/obj/Debug/consumo.exe
+/home/evertond/Documentos/CSharp/condicional/consumo/consumo/obj/Debug/consumo.pdb

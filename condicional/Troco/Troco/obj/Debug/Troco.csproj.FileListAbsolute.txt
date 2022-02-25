@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/Troco/Troco/bin/Debug/Troco.exe
+/home/evertond/Documentos/CSharp/condicional/Troco/Troco/bin/Debug/Troco.pdb
+/home/evertond/Documentos/CSharp/condicional/Troco/Troco/obj/Debug/Troco.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/Troco/Troco/obj/Debug/Troco.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/Troco/Troco/obj/Debug/Troco.exe
+/home/evertond/Documentos/CSharp/condicional/Troco/Troco/obj/Debug/Troco.pdb

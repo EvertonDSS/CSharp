@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/condicional/circulo/circulo/obj/Debug/circulo.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/circulo/circulo/obj/Debug/circulo.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/circulo/circulo/bin/Debug/circulo.exe
+/home/evertond/Documentos/CSharp/condicional/circulo/circulo/bin/Debug/circulo.pdb
+/home/evertond/Documentos/CSharp/condicional/circulo/circulo/obj/Debug/circulo.exe
+/home/evertond/Documentos/CSharp/condicional/circulo/circulo/obj/Debug/circulo.pdb

@@ -1,8 +1,15 @@
-C:\Users\evert\Documents\C# - Curso\menor-de-tres\menor-de-tres\bin\Debug\menor-de-tres.exe.config
-C:\Users\evert\Documents\C# - Curso\menor-de-tres\menor-de-tres\bin\Debug\menor-de-tres.exe
-C:\Users\evert\Documents\C# - Curso\menor-de-tres\menor-de-tres\bin\Debug\menor-de-tres.pdb
-C:\Users\evert\Documents\C# - Curso\menor-de-tres\menor-de-tres\obj\Debug\menor-de-tres.csproj.AssemblyReference.cache
-C:\Users\evert\Documents\C# - Curso\menor-de-tres\menor-de-tres\obj\Debug\menor-de-tres.csproj.SuggestedBindingRedirects.cache
-C:\Users\evert\Documents\C# - Curso\menor-de-tres\menor-de-tres\obj\Debug\menor-de-tres.csproj.CoreCompileInputs.cache
-C:\Users\evert\Documents\C# - Curso\menor-de-tres\menor-de-tres\obj\Debug\menor-de-tres.exe
-C:\Users\evert\Documents\C# - Curso\menor-de-tres\menor-de-tres\obj\Debug\menor-de-tres.pdb
+C:/Users/evert/Documents/C# - Curso/menor-de-tres/menor-de-tres/bin/Debug/menor-de-tres.exe.config
+C:/Users/evert/Documents/C# - Curso/menor-de-tres/menor-de-tres/bin/Debug/menor-de-tres.exe
+C:/Users/evert/Documents/C# - Curso/menor-de-tres/menor-de-tres/bin/Debug/menor-de-tres.pdb
+C:/Users/evert/Documents/C# - Curso/menor-de-tres/menor-de-tres/obj/Debug/menor-de-tres.csproj.AssemblyReference.cache
+C:/Users/evert/Documents/C# - Curso/menor-de-tres/menor-de-tres/obj/Debug/menor-de-tres.csproj.SuggestedBindingRedirects.cache
+C:/Users/evert/Documents/C# - Curso/menor-de-tres/menor-de-tres/obj/Debug/menor-de-tres.csproj.CoreCompileInputs.cache
+C:/Users/evert/Documents/C# - Curso/menor-de-tres/menor-de-tres/obj/Debug/menor-de-tres.exe
+C:/Users/evert/Documents/C# - Curso/menor-de-tres/menor-de-tres/obj/Debug/menor-de-tres.pdb
+/home/evertond/Documentos/CSharp/condicional/menor-de-tres/menor-de-tres/bin/Debug/menor-de-tres.exe.config
+/home/evertond/Documentos/CSharp/condicional/menor-de-tres/menor-de-tres/bin/Debug/menor-de-tres.exe
+/home/evertond/Documentos/CSharp/condicional/menor-de-tres/menor-de-tres/bin/Debug/menor-de-tres.pdb
+/home/evertond/Documentos/CSharp/condicional/menor-de-tres/menor-de-tres/obj/Debug/menor-de-tres.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/condicional/menor-de-tres/menor-de-tres/obj/Debug/menor-de-tres.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/condicional/menor-de-tres/menor-de-tres/obj/Debug/menor-de-tres.exe
+/home/evertond/Documentos/CSharp/condicional/menor-de-tres/menor-de-tres/obj/Debug/menor-de-tres.pdb
