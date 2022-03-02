@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/vetor/imc/imc/bin/Debug/imc.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/imc/imc/bin/Debug/imc.pdb
+/home/evertond/Documentos/CSharp/exercicios/vetor/imc/imc/obj/Debug/imc.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/imc/imc/obj/Debug/imc.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/imc/imc/obj/Debug/imc.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/imc/imc/obj/Debug/imc.pdb
