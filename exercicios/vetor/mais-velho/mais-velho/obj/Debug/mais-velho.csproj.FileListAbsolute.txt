@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/vetor/mais-velho/mais-velho/bin/Debug/mais_velho.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/mais-velho/mais-velho/bin/Debug/mais_velho.pdb
+/home/evertond/Documentos/CSharp/exercicios/vetor/mais-velho/mais-velho/obj/Debug/mais-velho.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/mais-velho/mais-velho/obj/Debug/mais-velho.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/mais-velho/mais-velho/obj/Debug/mais_velho.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/mais-velho/mais-velho/obj/Debug/mais_velho.pdb

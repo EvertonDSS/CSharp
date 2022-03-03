@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/vetor/media-pares/media-pares/bin/Debug/media_pares.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/media-pares/media-pares/bin/Debug/media_pares.pdb
+/home/evertond/Documentos/CSharp/exercicios/vetor/media-pares/media-pares/obj/Debug/media-pares.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/media-pares/media-pares/obj/Debug/media-pares.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/media-pares/media-pares/obj/Debug/media_pares.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/media-pares/media-pares/obj/Debug/media_pares.pdb

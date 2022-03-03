@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/vetor/maior-posicao/maior-posicao/bin/Debug/maior_posicao.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/maior-posicao/maior-posicao/bin/Debug/maior_posicao.pdb
+/home/evertond/Documentos/CSharp/exercicios/vetor/maior-posicao/maior-posicao/obj/Debug/maior-posicao.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/maior-posicao/maior-posicao/obj/Debug/maior-posicao.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/maior-posicao/maior-posicao/obj/Debug/maior_posicao.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/maior-posicao/maior-posicao/obj/Debug/maior_posicao.pdb

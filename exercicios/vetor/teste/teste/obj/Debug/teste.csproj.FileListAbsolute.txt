@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/vetor/teste/teste/bin/Debug/teste.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/teste/teste/bin/Debug/teste.pdb
+/home/evertond/Documentos/CSharp/exercicios/vetor/teste/teste/obj/Debug/teste.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/teste/teste/obj/Debug/teste.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/teste/teste/obj/Debug/teste.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/teste/teste/obj/Debug/teste.pdb

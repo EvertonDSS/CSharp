@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/vetor/abaixo-da-media/abaixo-da-media/obj/Debug/abaixo-da-media.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/abaixo-da-media/abaixo-da-media/obj/Debug/abaixo-da-media.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/abaixo-da-media/abaixo-da-media/bin/Debug/abaixo_da_media.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/abaixo-da-media/abaixo-da-media/bin/Debug/abaixo_da_media.pdb
+/home/evertond/Documentos/CSharp/exercicios/vetor/abaixo-da-media/abaixo-da-media/obj/Debug/abaixo_da_media.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/abaixo-da-media/abaixo-da-media/obj/Debug/abaixo_da_media.pdb

@@ -1,0 +1,6 @@
+/home/evertond/Documentos/CSharp/exercicios/vetor/numeros-pares/numeros-pares/bin/Debug/numeros_pares.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/numeros-pares/numeros-pares/bin/Debug/numeros_pares.pdb
+/home/evertond/Documentos/CSharp/exercicios/vetor/numeros-pares/numeros-pares/obj/Debug/numeros-pares.csprojAssemblyReference.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/numeros-pares/numeros-pares/obj/Debug/numeros-pares.csproj.CoreCompileInputs.cache
+/home/evertond/Documentos/CSharp/exercicios/vetor/numeros-pares/numeros-pares/obj/Debug/numeros_pares.exe
+/home/evertond/Documentos/CSharp/exercicios/vetor/numeros-pares/numeros-pares/obj/Debug/numeros_pares.pdb
