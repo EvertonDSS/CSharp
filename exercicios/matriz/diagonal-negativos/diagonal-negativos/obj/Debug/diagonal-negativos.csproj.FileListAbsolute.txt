@@ -1,0 +1,6 @@
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\matriz\diagonal-negativos\diagonal-negativos\bin\Debug\diagonal-negativos.exe.config
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\matriz\diagonal-negativos\diagonal-negativos\bin\Debug\diagonal-negativos.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\matriz\diagonal-negativos\diagonal-negativos\bin\Debug\diagonal-negativos.pdb
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\matriz\diagonal-negativos\diagonal-negativos\obj\Debug\diagonal-negativos.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\matriz\diagonal-negativos\diagonal-negativos\obj\Debug\diagonal-negativos.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\matriz\diagonal-negativos\diagonal-negativos\obj\Debug\diagonal-negativos.pdb

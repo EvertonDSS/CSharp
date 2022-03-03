@@ -1,0 +1,7 @@
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\dados-pessoas\dados-pessoas\bin\Debug\dados-pessoas.exe.config
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\dados-pessoas\dados-pessoas\bin\Debug\dados-pessoas.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\dados-pessoas\dados-pessoas\bin\Debug\dados-pessoas.pdb
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\dados-pessoas\dados-pessoas\obj\Debug\dados-pessoas.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\dados-pessoas\dados-pessoas\obj\Debug\dados-pessoas.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\dados-pessoas\dados-pessoas\obj\Debug\dados-pessoas.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\dados-pessoas\dados-pessoas\obj\Debug\dados-pessoas.pdb

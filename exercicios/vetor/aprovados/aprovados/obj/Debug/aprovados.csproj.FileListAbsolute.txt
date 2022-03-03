@@ -1,0 +1,7 @@
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\aprovados\aprovados\obj\Debug\aprovados.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\aprovados\aprovados\obj\Debug\aprovados.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\aprovados\aprovados\bin\Debug\aprovados.exe.config
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\aprovados\aprovados\bin\Debug\aprovados.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\aprovados\aprovados\bin\Debug\aprovados.pdb
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\aprovados\aprovados\obj\Debug\aprovados.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\aprovados\aprovados\obj\Debug\aprovados.pdb

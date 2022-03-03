@@ -1,0 +1,7 @@
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\comerciante\comerciante\bin\Debug\comerciante.exe.config
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\comerciante\comerciante\bin\Debug\comerciante.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\comerciante\comerciante\bin\Debug\comerciante.pdb
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\comerciante\comerciante\obj\Debug\comerciante.csproj.AssemblyReference.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\comerciante\comerciante\obj\Debug\comerciante.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\comerciante\comerciante\obj\Debug\comerciante.exe
+C:\Users\evert\Documents\C# - Curso\CSharp\exercicios\vetor\comerciante\comerciante\obj\Debug\comerciante.pdb

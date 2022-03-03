@@ -1,6 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+<<<<<<< Updated upstream
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aprovados", "aprovados\aprovados.csproj", "{A2FE887B-36B0-4791-BB72-AC3CE5604BAE}"
+=======
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aprovados", "aprovados\aprovados.csproj", "{9C0186B7-6F6A-4D49-B255-01080CD176AB}"
+>>>>>>> Stashed changes
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +15,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< Updated upstream
 		{A2FE887B-36B0-4791-BB72-AC3CE5604BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A2FE887B-36B0-4791-BB72-AC3CE5604BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2FE887B-36B0-4791-BB72-AC3CE5604BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2FE887B-36B0-4791-BB72-AC3CE5604BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{9C0186B7-6F6A-4D49-B255-01080CD176AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0186B7-6F6A-4D49-B255-01080CD176AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0186B7-6F6A-4D49-B255-01080CD176AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0186B7-6F6A-4D49-B255-01080CD176AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {738CADBE-F0C5-48F9-A0FC-01A2DD27F29A}
+>>>>>>> Stashed changes
 	EndGlobalSection
 EndGlobal
